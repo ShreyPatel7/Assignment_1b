@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "772508647417",
+    "project_id": "assignment1b-7f471",
+    "storage_bucket": "assignment1b-7f471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772508647417:android:8ee20341d7268f3d664728",
+        "android_client_info": {
+          "package_name": "com.example.quizAssignment1b"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772508647417-j7aeejg5g3j8iumklaifc0khurjrmdh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizAssignment1b",
+            "certificate_hash": "0d63ad3cc5c38ea2794b2d62c5a4993c7d46f9ac"
+          }
+        },
+        {
+          "client_id": "772508647417-lqtu1jg3rfncc56enmle9ahlgefj6lgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClxHz8IjY5ANXYjM5Xw0ysiwanAFX_D2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772508647417-lqtu1jg3rfncc56enmle9ahlgefj6lgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
